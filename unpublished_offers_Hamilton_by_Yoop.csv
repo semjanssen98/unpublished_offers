@@ -1,0 +1,9 @@
+offerId,ean,notPublishableReason,notPublishableReasonDescription
+5a99b648-0a06-4ac6-9020-d2e73b590c32,8720726065221,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
+398f1bbf-4d5f-4167-95ff-669cc30f1fc2,8720726065290,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+cca64efd-b064-4727-a19d-ffcc917bc2e3,8720615381142,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+4789f62e-2c67-462a-860d-e8414b8fed7b,8720726065023,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+bda28ae7-1a73-4666-b910-1a6dbb2828e0,8719925240539,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+d2a7eb94-2c01-4d26-84ec-06bd80a6be13,8720726065580,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
+1a55ea9e-548d-42ea-9e5a-40e70c5e0eb2,8720726065030,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
+1a55ea9e-548d-42ea-9e5a-40e70c5e0eb2,8720726065030,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
