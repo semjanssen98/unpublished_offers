@@ -9,7 +9,6 @@ bcd0a2d0-e4ad-42c2-a137-f7eae17046c0,8716759577145,OUT_OF_STOCK,Out of stock or 
 c9df0a2c-dea2-4f6b-919c-d8988bfab920,8718444631323,PRICE_NOT_COMPETITIVE,Price too high
 c866793a-b946-4760-94ad-6326c4de6138,8718444639114,PRICE_NOT_COMPETITIVE,Price too high
 55214514-d4d5-4987-ae91-36168fda342c,4026056001071,PRICE_NOT_COMPETITIVE,Price too high
-3cc26500-cffe-4262-b690-3e9e18a94fdd,8716759576629,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 fc09e139-081f-44f3-95e3-f4e473c48170,0847922055745,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 1dcc2045-0f18-4efc-9882-586acdd07d87,0847922033620,PRICE_NOT_COMPETITIVE,Price too high
 68270b6d-709a-46b7-a573-6583bc9c87e2,8716759593299,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -88,11 +87,9 @@ e5da6d6c-c49d-4e4d-9a05-b0189da1a830,0005814009324,INSUFFICIENT_PERMISSIONS,Sell
 e5da6d6c-c49d-4e4d-9a05-b0189da1a830,0005814009324,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 f67e1ecf-b3bf-40d1-81b6-c0ca2e6a0563,4018653016381,PRICE_NOT_COMPETITIVE,Price too high
 30cb63f3-3e24-4193-94cf-75be63440304,8716759576124,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
-2586c96c-e7ce-40bc-82b8-f43cb2a299d3,8716759616004,PRICE_NOT_COMPETITIVE,Price too high
 0466222d-04e0-42c1-b9bb-a171904d0566,8718444635918,PRICE_NOT_COMPETITIVE,Price too high
 1d3c6904-5ee6-4c00-94be-df4d4bf0d155,8718444631804,PRICE_NOT_COMPETITIVE,Price too high
 889953fe-b224-48cb-910d-f0e4443a33ce,0858820004063,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-889953fe-b224-48cb-910d-f0e4443a33ce,0858820004063,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 1f3ace35-4e7d-42cf-a18f-ac40635ac371,0660048069003,PRICE_NOT_COMPETITIVE,Price too high
 5929e73e-6c0c-4393-8566-1f80011ed2e1,8716759592759,PRICE_NOT_COMPETITIVE,Price too high
 2c0dcb5d-9aef-4574-b7c8-d7dab5e4e446,0660048002451,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -112,8 +109,8 @@ c2d84731-b15a-4325-8b96-ac7aee5f3cf3,8716759583504,INSUFFICIENT_PERMISSIONS,Sell
 729ec109-9562-4711-b00c-511a53e3acd5,8716759558083,PRICE_NOT_COMPETITIVE,Price too high
 f4c90726-a3b8-4ed1-93dc-92c13c616b65,0847922020965,PRICE_NOT_COMPETITIVE,Price too high
 f06a825f-e1b3-4ba5-8740-f062edcc6872,8716759548893,PRICE_NOT_COMPETITIVE,Price too high
-0d67a4ec-5277-457f-8801-0d2cf8512562,0724004607651,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 0d67a4ec-5277-457f-8801-0d2cf8512562,0724004607651,PRICE_NOT_COMPETITIVE,Price too high
+0d67a4ec-5277-457f-8801-0d2cf8512562,0724004607651,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 6ad29558-ff13-4690-8801-b61f7847b785,4026056005413,PRICE_NOT_COMPETITIVE,Price too high
 c97e0e47-2dd3-4c8d-ab49-6a3e0c683ae4,0724004401693,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 9357f7e2-a0b5-4aa9-99eb-6f3cfeb2d447,8716759558526,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -121,10 +118,11 @@ c97e0e47-2dd3-4c8d-ab49-6a3e0c683ae4,0724004401693,OUT_OF_STOCK,Out of stock or 
 ff1ac50d-2e2b-4daf-8b4b-d94e862fc93e,8710729015835,PRICE_NOT_COMPETITIVE,Price too high
 34dd5895-36c4-4485-9623-e0d1a50e4f0e,8716759551183,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 42d256c3-0194-4e41-8992-08434fb24c61,4018653321478,PRICE_NOT_COMPETITIVE,Price too high
+6082bf25-ecbf-4510-8602-ff2686042ed2,8435039008987,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 fd4fa337-8442-420a-968a-d54f50db01ae,0707486989958,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
 fd4fa337-8442-420a-968a-d54f50db01ae,0707486989958,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
-d9ee82ae-b032-323c-e053-1d82090a9eaf,0024972673161,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
 d9ee82ae-b032-323c-e053-1d82090a9eaf,0024972673161,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
+d9ee82ae-b032-323c-e053-1d82090a9eaf,0024972673161,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
 d9ee82ae-b032-323c-e053-1d82090a9eaf,0024972673161,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 65cb5cdf-a014-482f-9cc4-42dd25f2977c,8716759586437,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 638759a5-319a-4fdb-bd7b-f3919ef845b2,3338020002665,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -209,11 +207,11 @@ dc983f6c-0c32-4834-8453-7ba012856162,8718444631293,PRICE_NOT_COMPETITIVE,Price t
 ad8e1980-8b1f-4c2a-83c4-a8ae90c7b133,8010213969812,PRICE_NOT_COMPETITIVE,Price too high
 8c7abe30-282c-4f4b-a18a-94f980188f7a,8719326822822,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
 39639146-e0dc-4fbf-9e76-12ace0da6679,8718444638902,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-a68b85ec-5c76-423e-9943-fb00ced8d55b,8716759605305,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 a68b85ec-5c76-423e-9943-fb00ced8d55b,8716759605305,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
+a68b85ec-5c76-423e-9943-fb00ced8d55b,8716759605305,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 a5e43b04-9ce0-41b1-80e4-a5fd95edf0a4,4015110034827,PRICE_NOT_COMPETITIVE,Price too high
-d8dfcfeb-0f03-4b25-814b-a26f5a00c7a4,8716759599918,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 d8dfcfeb-0f03-4b25-814b-a26f5a00c7a4,8716759599918,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+d8dfcfeb-0f03-4b25-814b-a26f5a00c7a4,8716759599918,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 87d69d27-795c-4ead-bb4e-ccc41662ec33,6009696800233,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 6cfa76a6-1b7b-467b-b8d3-0071711f032c,8718444635987,PRICE_NOT_COMPETITIVE,Price too high
 33c8bcbf-cdbf-4899-8030-9361d50249e5,0634654684752,PRICE_NOT_COMPETITIVE,Price too high
@@ -224,12 +222,12 @@ ca7813f5-823b-4de3-b255-8277777e0292,8718444635697,PRICE_NOT_COMPETITIVE,Price t
 a54c2721-f69f-4a9d-8828-4535bc14f588,8718444635734,PRICE_NOT_COMPETITIVE,Price too high
 18879434-c651-4729-9a8b-cad98d81552d,8718444635673,PRICE_NOT_COMPETITIVE,Price too high
 d8f6726b-e5cf-4d3d-a55e-9f515e117a81,8716759502338,UNMATCHED_OFFER,You are the first to sell this item on bol.com. Please add a product category.
-ea500ebb-ea1c-4919-932f-7e65306abf82,8716759570696,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 ea500ebb-ea1c-4919-932f-7e65306abf82,8716759570696,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
+ea500ebb-ea1c-4919-932f-7e65306abf82,8716759570696,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 d9caf52a-65d0-4136-e053-1d82090a9707,0029695520709,PRICE_NOT_COMPETITIVE,Price too high
 dd173f5c-b81d-4763-9b31-35f238a8fe27,0660048001867,PRICE_NOT_COMPETITIVE,Price too high
-d8869f51-d943-5033-e053-1d82090a143d,0029695520884,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d8869f51-d943-5033-e053-1d82090a143d,0029695520884,PRICE_NOT_COMPETITIVE,Price too high
+d8869f51-d943-5033-e053-1d82090a143d,0029695520884,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 219ae240-1273-4f1e-b954-ebf4c06b0625,0660048001843,PRICE_NOT_COMPETITIVE,Price too high
 7cc85133-ebcb-44ab-8cb2-fdfbaffa530c,0788169250633,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d8254d21-4896-47f0-89ac-3dc9f8cb8594,8716759568693,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -255,7 +253,6 @@ d9cbd649-e21f-2d3f-e053-1d82090a91e5,0029695507878,PRICE_NOT_COMPETITIVE,Price t
 d9cbd649-def7-2d3f-e053-1d82090a91e5,0035585459257,PRICE_NOT_COMPETITIVE,Price too high
 cbf92038-2cae-4f1a-a133-cbd71b7a6deb,0029695509315,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 1b5df878-a832-43a2-aae1-c12f2454f4a6,8716759555464,PRICE_NOT_COMPETITIVE,Price too high
-2092bf8b-be58-4b00-b600-a60d64c1c547,8716759577190,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d9caf52a-67e9-4136-e053-1d82090a9707,0035585111018,PRICE_NOT_COMPETITIVE,Price too high
 d9caf52a-6718-4136-e053-1d82090a9707,0035585323053,PRICE_NOT_COMPETITIVE,Price too high
 d9cbd649-df7c-2d3f-e053-1d82090a91e5,0035585494067,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -292,7 +289,6 @@ dd557a63-d39b-4af2-bc68-a12655fa7ddb,5021689019409,PRICE_NOT_COMPETITIVE,Price t
 433381d1-495b-4c02-b9ac-493c1ea28d79,8716759551046,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d9cbd649-dea3-2d3f-e053-1d82090a91e5,0035585747125,PRICE_NOT_COMPETITIVE,Price too high
 fb0ccb9f-1870-4278-af5c-995c1ec8f191,8716759561496,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-b5f4d8e4-ff78-4f00-81ee-a46768a89bce,4026056003563,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d9cbd649-df18-2d3f-e053-1d82090a91e5,0035585462028,PRICE_NOT_COMPETITIVE,Price too high
 d9caf52a-6637-4136-e053-1d82090a9707,0035585334066,PRICE_NOT_COMPETITIVE,Price too high
 d9caf52a-67d1-4136-e053-1d82090a9707,0035585356426,PRICE_NOT_COMPETITIVE,Price too high
@@ -309,10 +305,10 @@ f0ef8310-b8a5-433b-88a8-0feb74a94b73,5060739192358,UNMATCHED_OFFER,For this prod
 72aead83-344c-40fa-9403-8db7d2ead3e4,0035585503462,PRICE_NOT_COMPETITIVE,Price too high
 6b29e7bf-d36d-408d-9340-3c6c32c58f9d,4260465491072,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
 6b29e7bf-d36d-408d-9340-3c6c32c58f9d,4260465491072,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
-c4a4ed1d-929d-4876-8628-1ec729aa9be7,4260465491027,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 c4a4ed1d-929d-4876-8628-1ec729aa9be7,4260465491027,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
-8a1b8d59-5b69-4e47-b8a2-7e7e22c1e663,4150110997571,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
+c4a4ed1d-929d-4876-8628-1ec729aa9be7,4260465491027,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 8a1b8d59-5b69-4e47-b8a2-7e7e22c1e663,4150110997571,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
+8a1b8d59-5b69-4e47-b8a2-7e7e22c1e663,4150110997571,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
 c9de2d63-3344-4858-9e98-843e1dd6619a,8716759573499,PRICE_NOT_COMPETITIVE,Price too high
 d9caf52a-65cf-4136-e053-1d82090a9707,0029695520686,PRICE_NOT_COMPETITIVE,Price too high
 1a9d631f-83f4-4edf-8f12-3e96c92d305f,0660048074045,PRICE_NOT_COMPETITIVE,Price too high
@@ -325,11 +321,10 @@ b05caa01-0ffe-4026-9de5-0ff0ad30b1b1,6009681309055,OUT_OF_STOCK,Out of stock or 
 d8869f51-d942-5033-e053-1d82090a143d,0029695323133,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d9caf52a-6602-4136-e053-1d82090a9707,0029695323140,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 a676152c-32d2-4bd0-8d5d-1e6c1e2b474f,8718444638810,PRICE_NOT_COMPETITIVE,Price too high
-d5163b45-34e8-41d4-8998-6e7847c3f4e1,4018653038635,PRICE_NOT_COMPETITIVE,Price too high
 31c28722-fecd-4c7e-8054-db21d5313f23,8716759550681,PRICE_NOT_COMPETITIVE,Price too high
 33d55244-9ad9-4903-8cb3-de9468e9d984,8718444639084,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-fcaf44be-8a0d-485d-9199-60b84f147845,8716759551312,PRICE_NOT_COMPETITIVE,Price too high
 fcaf44be-8a0d-485d-9199-60b84f147845,8716759551312,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
+fcaf44be-8a0d-485d-9199-60b84f147845,8716759551312,PRICE_NOT_COMPETITIVE,Price too high
 d0f11e57-ab13-42f2-b44d-f43b1556ad42,8718444635895,PRICE_NOT_COMPETITIVE,Price too high
 f2be64c4-93ac-4e7a-8044-5cf4f83aeb34,4026056002405,PRICE_NOT_COMPETITIVE,Price too high
 4564a374-3915-4168-8197-11fd7068d409,4018653216057,PRICE_NOT_COMPETITIVE,Price too high
@@ -338,15 +333,13 @@ f2be64c4-93ac-4e7a-8044-5cf4f83aeb34,4026056002405,PRICE_NOT_COMPETITIVE,Price t
 d9cbd649-e1f3-2d3f-e053-1d82090a91e5,0093419100010,PRICE_NOT_COMPETITIVE,Price too high
 c1c4fc5b-2c12-4d50-b862-2e3e671db601,0660048194002,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 9d0970d5-7293-45b9-9bcd-9e82e87e2824,8716759527430,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
-7bff4a27-f5ac-4cee-9e32-f6b674f1242c,8716759527287,PRICE_NOT_COMPETITIVE,Price too high
 7bff4a27-f5ac-4cee-9e32-f6b674f1242c,8716759527287,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
+7bff4a27-f5ac-4cee-9e32-f6b674f1242c,8716759527287,PRICE_NOT_COMPETITIVE,Price too high
 276ceb9b-2371-4a99-b73d-c2c8714a67b1,0660048002345,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 cbfb354c-2e60-4c1c-830d-2277a0c4f997,0660048002284,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d9caf52a-65fc-4136-e053-1d82090a9707,0029695320446,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 cb296ea9-4419-4740-ae42-aae9b1097982,0660048002253,PRICE_NOT_COMPETITIVE,Price too high
 a8cd7452-af7d-451f-a7e5-20f7bd3e4695,0660048196006,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-f5b83c21-f00d-469a-8ea1-51ebeed1b98c,8716759612105,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-f5b83c21-f00d-469a-8ea1-51ebeed1b98c,8716759612105,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 b1af7c88-40eb-4a56-9448-28a554cc2e59,8716759575653,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 8ded5885-12b4-4e0b-bc88-029da2026628,8716759577664,PRICE_NOT_COMPETITIVE,Price too high
 673e3a50-80a7-4511-8d6a-4465d107973e,8716759567290,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
@@ -359,8 +352,8 @@ a4878f67-6c3d-43d1-8ccc-94eb1e723170,8719327352731,INSUFFICIENT_PERMISSIONS,Sell
 1a021306-e345-489a-8764-a9c5bce0b149,8716759611535,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 e411a90a-96bb-4cca-87f8-0e3aa23627b6,8716759551619,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
 e411a90a-96bb-4cca-87f8-0e3aa23627b6,8716759551619,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
-7335623f-c299-4529-9437-18ff40e372c4,8716759565104,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 7335623f-c299-4529-9437-18ff40e372c4,8716759565104,PRICE_NOT_COMPETITIVE,Price too high
+7335623f-c299-4529-9437-18ff40e372c4,8716759565104,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 892bb8a3-6719-4ad3-aaf7-6f68e3f3c0c2,8713229054151,PRICE_NOT_COMPETITIVE,Price too high
 88cdca70-43c2-43cf-9de1-1852546f5320,5703414114039,PRICE_NOT_COMPETITIVE,Price too high
 e7ed987a-a889-4430-a69a-419d6900b975,4018653003879,PRICE_NOT_COMPETITIVE,Price too high
@@ -370,10 +363,10 @@ e7ed987a-a889-4430-a69a-419d6900b975,4018653003879,PRICE_NOT_COMPETITIVE,Price t
 029395a8-710f-44b6-932e-fa013111283c,8716759550421,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 7d53dde5-6f6d-4614-98c8-23eb1e55882e,8716759550445,PRICE_NOT_COMPETITIVE,Price too high
 22157aa7-5e94-40d1-bdab-f4992a6a2fc2,8718426005289,PRICE_NOT_COMPETITIVE,Price too high
-1c7057ad-7171-494d-b82f-242e698d788b,0005814008372,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 1c7057ad-7171-494d-b82f-242e698d788b,0005814008372,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
-16c8da47-2911-49c6-a86e-7388427809d3,8716759578050,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+1c7057ad-7171-494d-b82f-242e698d788b,0005814008372,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 16c8da47-2911-49c6-a86e-7388427809d3,8716759578050,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
+16c8da47-2911-49c6-a86e-7388427809d3,8716759578050,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 303fc8bd-385a-4aeb-a731-e0e9505f73bd,8886467546617,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 4a534650-3e01-4a44-93c2-b2a0b1e63bc6,8886467525018,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 0e37bbc9-5efd-4413-b9de-791dbc8fa485,4005537049511,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -388,8 +381,8 @@ c921027c-9a15-49f5-a147-6faf98e79cc6,8886467591341,OUT_OF_STOCK,Out of stock or 
 3aaa80d0-4632-4267-8982-8924129a3a9e,4046436000821,PRICE_NOT_COMPETITIVE,Price too high
 d9cbd649-df6d-2d3f-e053-1d82090a91e5,0035585800011,PRICE_NOT_COMPETITIVE,Price too high
 d9cbd649-df97-2d3f-e053-1d82090a91e5,0035585476162,PRICE_NOT_COMPETITIVE,Price too high
-d9caf52a-677c-4136-e053-1d82090a9707,0035585009261,PRICE_NOT_COMPETITIVE,Price too high
 d9caf52a-677c-4136-e053-1d82090a9707,0035585009261,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+d9caf52a-677c-4136-e053-1d82090a9707,0035585009261,PRICE_NOT_COMPETITIVE,Price too high
 d9cbd649-dfb3-2d3f-e053-1d82090a91e5,0035585800110,PRICE_NOT_COMPETITIVE,Price too high
 d9caf52a-6796-4136-e053-1d82090a9707,0035585356266,PRICE_NOT_COMPETITIVE,Price too high
 06abee2d-fd41-4bea-b237-6035c31ad3a2,8716759510548,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -398,7 +391,6 @@ c82bbd39-d753-4e8d-a7dd-2639c8a928da,4018653326541,PRICE_NOT_COMPETITIVE,Price t
 76209344-11ea-4541-85f9-efc72a6426de,8716759445581,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 a1e77ce4-ee79-4fdc-bc30-63cefb4d974c,8716759007888,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 a1e77ce4-ee79-4fdc-bc30-63cefb4d974c,8716759007888,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-5b038d2a-bc90-43bc-824c-b407aeb3a5eb,8716759575974,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 aaa09852-541c-4105-8e55-bae62f80699b,4029339205258,PRICE_NOT_COMPETITIVE,Price too high
 832067b9-5a9e-4c26-a294-51db1adedd51,4018653913390,PRICE_NOT_COMPETITIVE,Price too high
 7fc7992a-27c7-4f45-ba1b-5f43d914c3b9,8716759509856,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
@@ -407,8 +399,8 @@ aaa09852-541c-4105-8e55-bae62f80699b,4029339205258,PRICE_NOT_COMPETITIVE,Price t
 d9cbd649-df89-2d3f-e053-1d82090a91e5,0035585475691,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d9cbd649-df00-2d3f-e053-1d82090a91e5,0035585459004,PRICE_NOT_COMPETITIVE,Price too high
 d9caf52a-66f4-4136-e053-1d82090a9707,0035585032177,PRICE_NOT_COMPETITIVE,Price too high
-666069f8-379a-4b07-ae73-e97c7940e86e,8716759590519,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 666069f8-379a-4b07-ae73-e97c7940e86e,8716759590519,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+666069f8-379a-4b07-ae73-e97c7940e86e,8716759590519,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 d9caf52a-6743-4136-e053-1d82090a9707,0035585396019,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 f5b2e93a-bb99-427d-a622-c1b9f6a764b2,8711500697714,PRICE_NOT_COMPETITIVE,Price too high
 bf71da53-5b57-4654-a809-221cbca3da20,4018653958629,PRICE_NOT_COMPETITIVE,Price too high
@@ -424,8 +416,9 @@ d9caf52a-67bc-4136-e053-1d82090a9707,0035585356006,OUT_OF_STOCK,Out of stock or 
 1fc98bd1-209b-4c18-bbcb-1d8f2c8ed9d0,8716759583931,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 3f1d22ec-b522-41bc-bc20-0e55dc38dc6e,4018653328125,PRICE_NOT_COMPETITIVE,Price too high
 78601a75-fb22-4343-a000-8048561096bb,4018653153840,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
-6828b522-a7fc-4006-bdad-a4e20e6b372e,8716759541900,PRICE_NOT_COMPETITIVE,Price too high
 6828b522-a7fc-4006-bdad-a4e20e6b372e,8716759541900,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
+6828b522-a7fc-4006-bdad-a4e20e6b372e,8716759541900,PRICE_NOT_COMPETITIVE,Price too high
+c49c05b4-9889-478b-80fd-4b41d2e2f3c7,8886467590184,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d9cbd649-df14-2d3f-e053-1d82090a91e5,0035585775210,PRICE_NOT_COMPETITIVE,Price too high
 d9cbd649-def6-2d3f-e053-1d82090a91e5,0035585775579,PRICE_NOT_COMPETITIVE,Price too high
 60b5f5b8-f5a2-4125-92cb-a3e443b2bb32,5420036927808,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
@@ -483,18 +476,17 @@ d9cbd649-def1-2d3f-e053-1d82090a91e5,0035585774978,PRICE_NOT_COMPETITIVE,Price t
 55da4d5a-6497-454c-9f46-94f59d88f0ce,8716759596047,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d9cbd649-df24-2d3f-e053-1d82090a91e5,0035585450490,PRICE_NOT_COMPETITIVE,Price too high
 70b1e0ae-bb38-4257-97f1-81cd23f64319,8886467595707,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-d9e3e6e8-0ae8-4aaa-9106-c01d6b4913ee,5420036926979,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 d9e3e6e8-0ae8-4aaa-9106-c01d6b4913ee,5420036926979,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
+d9e3e6e8-0ae8-4aaa-9106-c01d6b4913ee,5420036926979,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 d867fcab-1b1f-4a15-bffb-e925ca709278,4029339704447,PRICE_NOT_COMPETITIVE,Price too high
 e70df752-728e-4037-9a7c-b59bd56fc4b2,4018653023822,PRICE_NOT_COMPETITIVE,Price too high
-d9caf52a-66dd-4136-e053-1d82090a9707,0035585323015,PRICE_NOT_COMPETITIVE,Price too high
 28f2144f-bd98-4d07-b902-c0b3d92ff3d3,8713229054113,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 558920f0-5ff4-4e50-b53c-805817fc6d5d,4052199504902,PRICE_NOT_COMPETITIVE,Price too high
-05d1b9d8-76c7-4965-a269-10f475b1f73e,8716759595002,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 05d1b9d8-76c7-4965-a269-10f475b1f73e,8716759595002,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
+05d1b9d8-76c7-4965-a269-10f475b1f73e,8716759595002,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 e53236f1-7349-40b8-b282-a993697d5be0,0035585034263,PRICE_NOT_COMPETITIVE,Price too high
-d9cbd649-df7d-2d3f-e053-1d82090a91e5,0035585494081,PRICE_NOT_COMPETITIVE,Price too high
 d9cbd649-df7d-2d3f-e053-1d82090a91e5,0035585494081,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+d9cbd649-df7d-2d3f-e053-1d82090a91e5,0035585494081,PRICE_NOT_COMPETITIVE,Price too high
 d9caf52a-66e1-4136-e053-1d82090a9707,0035585277066,PRICE_NOT_COMPETITIVE,Price too high
 d9caf52a-6640-4136-e053-1d82090a9707,0035585055503,PRICE_NOT_COMPETITIVE,Price too high
 d9cbd649-df05-2d3f-e053-1d82090a91e5,0035585454269,PRICE_NOT_COMPETITIVE,Price too high
@@ -536,8 +528,8 @@ d9caf52a-67af-4136-e053-1d82090a9707,0035585301013,PRICE_NOT_COMPETITIVE,Price t
 d9caf52a-67ba-4136-e053-1d82090a9707,0035585159140,PRICE_NOT_COMPETITIVE,Price too high
 679285c4-0444-413a-8f73-b26aa554975c,8716759581876,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 ecfe660a-8bb9-47a0-83db-1df4c382af44,8716759570634,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
-f3e69974-85b7-4e94-b758-995698250ae3,8716759601338,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 f3e69974-85b7-4e94-b758-995698250ae3,8716759601338,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
+f3e69974-85b7-4e94-b758-995698250ae3,8716759601338,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 58b5bb9b-b8f4-47c8-91b9-e761845ca9b6,8716759020924,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 e33c82c1-5a7c-459c-9617-fbd71eec2919,0683615359079,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 a9b17b52-bab2-4a38-8222-2a969e6607ee,8716759539556,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
@@ -545,7 +537,7 @@ a9b17b52-bab2-4a38-8222-2a969e6607ee,8716759539556,INSUFFICIENT_PERMISSIONS,Sell
 3053b82a-059a-46f4-a279-ceda9b529381,8716759551725,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
 0d7b1591-c545-49fd-9cf1-8fe4b3c6694b,8716759566330,PRICE_NOT_COMPETITIVE,Price too high
 b931bb06-97f6-48fd-a7d1-51819c5b1870,8716759566347,PRICE_NOT_COMPETITIVE,Price too high
-efc59dde-660d-4d80-9f3f-144e4de6d06b,8716759615519,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 8716759615519.
+efc59dde-660d-4d80-9f3f-144e4de6d06b,8716759615519,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 efc59dde-660d-4d80-9f3f-144e4de6d06b,8716759615519,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 e040733d-bab8-4982-9e3a-4262185b1bc8,8716759551626,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
 e040733d-bab8-4982-9e3a-4262185b1bc8,8716759551626,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
@@ -553,8 +545,8 @@ e040733d-bab8-4982-9e3a-4262185b1bc8,8716759551626,INSUFFICIENT_PERMISSIONS,Sell
 24ad2dc1-02fa-49ab-9be8-12554dfe4dab,8716759616608,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 0218fed3-9261-4ef0-8d47-a302042c7fd6,8716759616622,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 2163b95d-88f3-46db-b30b-79c83624b247,4000903232900,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-0024268c-5752-422f-9ad1-d6d894a7c8bb,4260393950047,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 0024268c-5752-422f-9ad1-d6d894a7c8bb,4260393950047,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
+0024268c-5752-422f-9ad1-d6d894a7c8bb,4260393950047,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 b65d752a-e2e8-4b42-a4ea-6d1e1c82affc,0035585000558,PRICE_NOT_COMPETITIVE,Price too high
 9c637bef-07e6-4b7f-8e6b-cdc5de616ed0,8716759631908,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 c2f207e5-3c57-4ec3-bed1-233f792b34ed,8886467530012,PRICE_NOT_COMPETITIVE,Price too high
@@ -578,20 +570,18 @@ d99e704c-69e9-422b-805d-8c57959a1dc1,8713343002311,INSUFFICIENT_PERMISSIONS,Sell
 da39824d-36a4-41d0-a2eb-e1963acd7298,0005814010863,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 e0c0a860-b029-44c9-92db-28b17870505d,8716759536791,PRICE_NOT_COMPETITIVE,Price too high
 2287a394-04e8-4b87-ba07-32dcc6fcdbb5,8716759580985,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-34144142-e937-4910-b8d2-735491449c21,8716759571181,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 ed1c0069-4075-459a-b20f-b42f5ed04035,0812402004292,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 a20da346-6236-41e2-a325-b72e693b8afe,8711500898586,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 98418759-026a-4589-bac9-07de69b1fcaf,8716759627116,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
 8aced4b3-8302-40ce-9f4e-7ab1f887da6d,8716759616790,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-e1dd58b6-9808-465e-a259-e9f4539c248c,8716759623026,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
 e1dd58b6-9808-465e-a259-e9f4539c248c,8716759623026,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
+e1dd58b6-9808-465e-a259-e9f4539c248c,8716759623026,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
 6dc5dc8e-1e1c-4a45-817d-4ef6a40f6696,4260465491010,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
 6dc5dc8e-1e1c-4a45-817d-4ef6a40f6696,4260465491010,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 1f146c16-3a4d-4c6f-99ef-20b5fe5bf518,8716759623774,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 dd4c8d62-8a40-4227-8205-c33c072062e9,8716759599383,PRICE_NOT_COMPETITIVE,Price too high
 44615937-2e14-4aeb-9558-a1b5f1291e23,8716759452701,PRICE_NOT_COMPETITIVE,Price too high
 44615937-2e14-4aeb-9558-a1b5f1291e23,8716759452701,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
-8d426de0-ddb0-4672-8eaa-d063d1932d6c,5450208011615,PRICE_NOT_COMPETITIVE,Price too high
 e30d8a86-9e75-4576-a605-529759dfb166,5420036927037,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
 e30d8a86-9e75-4576-a605-529759dfb166,5420036927037,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 9a0696aa-c6f5-4761-a154-1f65734f8d67,4018653153802,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
@@ -612,7 +602,6 @@ f092ca0a-43e7-4fe4-b23a-c8c70d7c9aa4,5425006408301,UNMATCHED_OFFER,For this prod
 3fe6a8fe-f3f4-4aa8-a9b0-c2eddb4cda43,8716759550438,PRICE_NOT_COMPETITIVE,Price too high
 497a6040-4f43-4b99-af9c-96cf8b732ea0,8716759550452,PRICE_NOT_COMPETITIVE,Price too high
 62ff85b6-23eb-495a-a937-b90839b93f23,8716759569980,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-fcf61ad0-b81f-4b92-a32b-6b298ab1239d,8716759580367,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 6ce2265c-71d7-4f98-a46b-e1b5f4b957dc,0812402000102,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 c76aee40-5c8b-4433-9268-4e27bb35a1b0,0812402000300,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 89d13324-7295-4a44-9b94-62b5248f17f0,0812402000072,PRICE_NOT_COMPETITIVE,Price too high
@@ -642,8 +631,8 @@ eb02819d-ca06-469d-b245-fdcc99ab136a,8716759628496,OUT_OF_STOCK,Out of stock or 
 655cac92-f9a4-4718-8df5-d2edef0abbdd,0035585458090,PRICE_NOT_COMPETITIVE,Price too high
 be7f466b-6db2-4059-8118-ba6e9d5e107a,0035585458083,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 ffd6bcf7-c1fc-414e-865a-098c3949c22e,8435039016050,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-f839ee1a-6445-4924-bcec-db3259857af0,4260465491034,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
 f839ee1a-6445-4924-bcec-db3259857af0,4260465491034,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
+f839ee1a-6445-4924-bcec-db3259857af0,4260465491034,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
 6eb1eab5-c129-4ddc-b750-b0e2361187be,8716759622876,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 ca589943-1dfa-4319-a816-752842da8f47,8716759627109,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 df103b0e-5ed7-44a5-8f26-8971be0f2eab,8716759627123,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -668,11 +657,9 @@ e619844b-1537-46fe-a610-82099363d3c6,8716759628793,PRICE_NOT_COMPETITIVE,Price t
 2d70984e-d8f2-42e0-898e-eff9fcd4a140,5060050110031,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
 ed8bb7ed-1b29-467c-982c-81414cfc2fc5,5060050112554,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
 56740cb4-90d2-4049-b080-104ba2fda659,0812402004315,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-28e5c37f-a450-456f-9b6e-0f132572d0cf,8716759529090,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 dabb1edc-30e4-4d0c-80bd-0f0c459394b5,8716759529083,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 a29a4e31-6676-437e-8f8c-8f055b7407c7,8716759635166,PRICE_NOT_COMPETITIVE,Price too high
 df164006-4226-406c-b804-65897d59820a,8716759627888,PRICE_NOT_COMPETITIVE,Price too high
-495883b1-75cf-402a-945a-c3c5486bb09c,8886467548192,PRICE_NOT_COMPETITIVE,Price too high
 0bcb1f42-ba69-454e-b975-d68d96580417,0035585459479,PRICE_NOT_COMPETITIVE,Price too high
 13401f26-7231-4ced-a9fe-dc3d839933ab,8716759637368,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 19bda167-f45f-45c3-8d83-ed18e1bb9339,0812402004339,PRICE_NOT_COMPETITIVE,Price too high
@@ -681,14 +668,12 @@ dbc0e07a-58f1-43d3-b99d-e3201c7a5f30,8716759627871,PRICE_NOT_COMPETITIVE,Price t
 4dd84b97-3b03-4bc7-b589-060aefd752aa,4262356380403,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 92c62cbd-236e-42c0-97c8-ab30bda3c267,0035585509402,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d0c00f32-40dc-426e-9a6c-ec1069124be6,0035585498652,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-8390b924-ff07-4c4e-a3b6-a9f0e441a58b,8716759567917,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 8390b924-ff07-4c4e-a3b6-a9f0e441a58b,8716759567917,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-2a5128f0-65fa-4d48-a06c-25ce07c7777c,8716759635975,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-2a5128f0-65fa-4d48-a06c-25ce07c7777c,8716759635975,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
-3817e24c-1b44-4562-939e-e68774a0ef8e,8716759635968,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+8390b924-ff07-4c4e-a3b6-a9f0e441a58b,8716759567917,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 3817e24c-1b44-4562-939e-e68774a0ef8e,8716759635968,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
-f42d46c0-925a-41ab-933c-b9540142d23a,8713412001641,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
+3817e24c-1b44-4562-939e-e68774a0ef8e,8716759635968,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 f42d46c0-925a-41ab-933c-b9540142d23a,8713412001641,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
+f42d46c0-925a-41ab-933c-b9540142d23a,8713412001641,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 026a3430-5b90-421d-a85a-00f879bd7929,0847922058166,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 37e7673d-a78e-4364-98fe-09df464ac8d0,6974004640057,UNMATCHED_OFFER,You are the first to sell this item on bol.com. Please add a product category.
 0106c4e7-fa4f-473e-81cd-655b6e6e098a,0847922032371,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
