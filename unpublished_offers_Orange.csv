@@ -18,8 +18,8 @@ d50f7555-204e-4330-8b0d-7369b55fe67a,4250589499351,NOT_PUBLISHED_BY_SELLER,The s
 e4761bc7-f971-43d5-bd7e-0c34dcc91737,4054571158499,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 e0d0ec0d-870e-4f48-a008-1f12d1be15a0,4054571161086,PRICE_NOT_COMPETITIVE,Price too high
 4bd843e7-66ec-4c23-9a42-97ce7b0ec339,4250589499306,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
-8a804754-3c41-41d2-bafb-c770df8a7c7d,8057017989806,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 8a804754-3c41-41d2-bafb-c770df8a7c7d,8057017989806,PRICE_NOT_COMPETITIVE,Price too high
+8a804754-3c41-41d2-bafb-c770df8a7c7d,8057017989806,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 b606d244-f8b1-4a84-a8ac-0e583938522c,4250589468692,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 ee388ab8-860e-45be-b9ff-d9db5fb10747,4026495087223,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 db8d9bc7-5dbe-4499-9c33-8bc211845eee,4054571144249,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
@@ -45,6 +45,7 @@ cb1abe0f-84ad-44ae-9644-f98d9ae9f4bc,8030282517455,OUT_OF_STOCK,Out of stock or 
 eb96b744-d870-40ad-9f4d-e7a450b5fc6c,4054571157010,PRICE_NOT_COMPETITIVE,Price too high
 bbd57b49-834a-4e73-a42d-1af62d524064,4054571211538,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 c9491d9b-b522-423c-bba5-63a2840b0575,4054571158475,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+7b0714d0-278f-4f3a-a7de-9176830d378d,4250589490013,PRICE_NOT_COMPETITIVE,Price too high
 c8e41313-012f-4bc9-9ec7-d79a44561800,4026495904278,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 4efea1f0-6144-4535-8bd9-809cc0339efe,4062695001102,PRICE_NOT_COMPETITIVE,Price too high
 6d4498f7-5042-417f-9f10-3c1ada65ec0e,4712806004071,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
@@ -128,6 +129,7 @@ da25adae-2ddf-4886-a2fb-36932b3adee7,8030282510838,OUT_OF_STOCK,Out of stock or 
 a326f73c-d6b3-4289-9310-8fb9d78e1fc1,4250589416464,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 7b95ff04-2317-41b4-ae8b-df1c1ea3e49e,4250589448496,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 281b2eb7-978f-4c2b-a540-db6b8279c94d,4712805996568,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
+69176259-1083-4b94-8e51-2f0314e7b9b5,4054571161482,PRICE_NOT_COMPETITIVE,Price too high
 d1b2baf0-8e56-4e2e-be35-3f6d16ae367b,4260086855352,PRICE_NOT_COMPETITIVE,Price too high
 f9eac07c-dc69-4b22-a10c-c6a09264352a,8030282528345,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 83f26d51-321c-486a-a68d-39d59641b013,8030282426511,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -157,8 +159,8 @@ de73c0bc-aa9a-429a-b56c-61064b99dc14,4712806002695,OUT_OF_STOCK,Out of stock or 
 c7e5e887-d2c7-4267-a6c9-d0d5f48436ae,4026495622530,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
 06c60ea1-bb34-4aff-8421-09dd725550d0,4250589432747,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
 7baf9920-5812-4b8c-a856-55fd951e8047,4026495871754,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-294725e3-162f-42c2-92ea-fc5496874fb2,8055728110496,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 294725e3-162f-42c2-92ea-fc5496874fb2,8055728110496,PRICE_NOT_COMPETITIVE,Price too high
+294725e3-162f-42c2-92ea-fc5496874fb2,8055728110496,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 25939e23-f04d-4a3c-bfdc-cd364a0e0997,8030282477346,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d6d36556-8b3d-4a65-9674-39cec05e4f4e,4250589432587,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 a47c540a-256f-49c9-8fe7-ce8b3556d6de,4054571157959,PRICE_NOT_COMPETITIVE,Price too high
