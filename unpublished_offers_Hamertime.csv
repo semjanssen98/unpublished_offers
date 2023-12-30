@@ -55,8 +55,8 @@ cf297383-baaa-43f7-aeff-03e0d004bed7,8720615380510,OUT_OF_STOCK,Out of stock or 
 23803a8c-90c2-4899-a076-fe46a6c949e1,5902802900340,PRICE_NOT_COMPETITIVE,Price too high
 63c26c0b-3e82-492b-9679-a8d4fd336c33,8720813350841,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 a0599e12-2873-4318-b80c-6707e8ca9929,5900779936058,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-e5c62ec7-84de-4eb5-9b8a-d9a4b5af83cf,6011606861876,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
 e5c62ec7-84de-4eb5-9b8a-d9a4b5af83cf,6011606861876,PRICE_NOT_COMPETITIVE,Price too high
+e5c62ec7-84de-4eb5-9b8a-d9a4b5af83cf,6011606861876,MISSING_RIGHTS_CATEGORY_BRAND,Additional sales rights are required.
 3feb8118-fb6b-4349-9405-54cfbad0365a,8719984003380,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 1f63c0ea-2d37-4583-9196-dd6ead0be3b3,8720615383160,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 ba0fde73-2024-449e-a225-9e77b317031c,8719327502242,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -90,7 +90,6 @@ af093c53-831d-416c-8ef8-384f9b5e00fe,8720813352685,NOT_PUBLISHED_BY_SELLER,The s
 846c6a23-9028-4177-8617-cb358d164bdf,8720615384631,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 72a0c16c-34a5-47f2-b938-0205b8a84df6,8719327502228,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 21631bfa-3aaf-4b61-a994-ae61de15e736,8720813350575,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-6f3291e2-a7b7-4277-a6c7-808fd8a12bd7,7446049332390,PRICE_NOT_COMPETITIVE,Price too high
 6ae9e735-b0ba-4bdd-9092-b6682f86c6f5,8432393003207,PRICE_NOT_COMPETITIVE,Price too high
 59dc9aa2-897f-40cf-a38c-fcb7228489ad,6013818586547,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 dd9ff71f-4027-4eba-9d80-c7a73152b011,8720813353354,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
