@@ -16,8 +16,8 @@ bdb7cd7e-b44a-47fb-96de-6f29bbc93520,3760138833266,PRICE_NOT_COMPETITIVE,Price t
 6d407bb3-55cb-42ee-afc6-eb9cb0d6a6aa,4037373403066,PRICE_NOT_COMPETITIVE,Price too high
 9a2fc76b-b999-4fa1-9213-445ad41d3ea0,8714823000117,PRICE_NOT_COMPETITIVE,Price too high
 787b0e86-bd12-4d03-9072-0f29259967c0,6430052009791,PRICE_NOT_COMPETITIVE,Price too high
-5ee8e229-601e-4a49-acc0-c40f39979aab,5412810331604,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 5ee8e229-601e-4a49-acc0-c40f39979aab,5412810331604,PRICE_NOT_COMPETITIVE,Price too high
+5ee8e229-601e-4a49-acc0-c40f39979aab,5412810331604,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 eb7914b1-9b1d-49d6-a16a-fc9874c2d622,8720299624801,PRICE_NOT_COMPETITIVE,Price too high
 bbf261e3-c476-4bed-99f8-c5a897340a77,8718692051140,PRICE_NOT_COMPETITIVE,Price too high
 333adedb-12cf-4ec6-b01b-591441d1ea45,4260491220486,PRICE_NOT_COMPETITIVE,Price too high
@@ -46,8 +46,8 @@ bfa4d06f-c15d-4e1d-b2f9-4dfa0a4299b0,5060175850720,PRICE_NOT_COMPETITIVE,Price t
 a90480f6-8460-48e7-91d7-bd709320ca46,4792247003338,PRICE_NOT_COMPETITIVE,Price too high
 24a9bdb0-7614-4407-843f-ffa674afac47,0018787362372,PRICE_NOT_COMPETITIVE,Price too high
 023ddf0b-9d6e-43e1-af51-141821812bc3,4007123663248,PRICE_NOT_COMPETITIVE,Price too high
-28e8efb8-4cad-4583-868c-fde68c6927af,4260663810019,PRICE_NOT_COMPETITIVE,Price too high
 28e8efb8-4cad-4583-868c-fde68c6927af,4260663810019,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+28e8efb8-4cad-4583-868c-fde68c6927af,4260663810019,PRICE_NOT_COMPETITIVE,Price too high
 adcc6432-4e58-41a7-8272-1073744e55e6,8711286901647,PRICE_NOT_COMPETITIVE,Price too high
 9881c18a-9cbc-4af9-b792-2f1660734ed5,0850024570429,PRICE_NOT_COMPETITIVE,Price too high
 f5f30bfc-625b-433d-8d1d-a9c93ee51af5,4046871004712,PRICE_NOT_COMPETITIVE,Price too high
@@ -61,11 +61,11 @@ d8824925-688c-40df-8635-7eeb6bb28319,4037373482009,PRICE_NOT_COMPETITIVE,Price t
 0ace06f7-05a3-49bf-8f5a-1efeb62d8d43,8720387437108,PRICE_NOT_COMPETITIVE,Price too high
 8acf4f51-bdc5-4698-a953-ec1b879e3a8f,8714806162610,PRICE_NOT_COMPETITIVE,Price too high
 f55b4e5b-9942-4afe-a3db-3779d0c19e28,4009033800072,PRICE_NOT_COMPETITIVE,Price too high
-bd28eb0b-0506-41d5-90a0-bda18a820aa1,5060175850584,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 bd28eb0b-0506-41d5-90a0-bda18a820aa1,5060175850584,PRICE_NOT_COMPETITIVE,Price too high
+bd28eb0b-0506-41d5-90a0-bda18a820aa1,5060175850584,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 f083bf4c-50d6-4e7a-979c-10cc123bd2ef,8720254337517,PRICE_NOT_COMPETITIVE,Price too high
-97dbd458-19e9-4ae5-adf3-75098c8c6222,4009033600177,PRICE_NOT_COMPETITIVE,Price too high
 97dbd458-19e9-4ae5-adf3-75098c8c6222,4009033600177,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+97dbd458-19e9-4ae5-adf3-75098c8c6222,4009033600177,PRICE_NOT_COMPETITIVE,Price too high
 cf809c99-095c-428c-a9e2-9e0dc72f8d02,4260066813006,PRICE_NOT_COMPETITIVE,Price too high
 901989ef-2737-4292-acc7-7c55f11ab6c8,4006381115544,PRICE_NOT_COMPETITIVE,Price too high
 01404d04-191e-428e-ac76-f76243b042ef,4006381437110,PRICE_NOT_COMPETITIVE,Price too high
@@ -158,13 +158,13 @@ dcef8e80-fe2f-4a45-951a-488ac17b6dbb,0018787242452,PRICE_NOT_COMPETITIVE,Price t
 d4784ecb-7ec0-49c4-86bf-4cd1fb9399ab,5034566615120,PRICE_NOT_COMPETITIVE,Price too high
 df14eb39-9578-4449-86de-567f0e146125,4009463601133,PRICE_NOT_COMPETITIVE,Price too high
 1c4bd118-60e1-4fe3-9156-ee0b393fc2eb,4792247003635,PRICE_NOT_COMPETITIVE,Price too high
-e151e244-8e5c-4ccf-b069-11e084692b39,4007123560059,PRICE_NOT_COMPETITIVE,Price too high
 e151e244-8e5c-4ccf-b069-11e084692b39,4007123560059,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+e151e244-8e5c-4ccf-b069-11e084692b39,4007123560059,PRICE_NOT_COMPETITIVE,Price too high
 336c67b3-9759-4339-86a7-8332da4a14ec,4008838313237,PRICE_NOT_COMPETITIVE,Price too high
 b4ab89a5-c2a7-46c1-a6d0-ba20ec2617f8,8711557400039,PRICE_NOT_COMPETITIVE,Price too high
 7b278e42-3d0a-4325-8845-3aa8c5b1d576,4012561327416,PRICE_NOT_COMPETITIVE,Price too high
-57be22e5-d531-415e-a79c-f08b882b170b,8720254337258,PRICE_NOT_COMPETITIVE,Price too high
 57be22e5-d531-415e-a79c-f08b882b170b,8720254337258,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+57be22e5-d531-415e-a79c-f08b882b170b,8720254337258,PRICE_NOT_COMPETITIVE,Price too high
 18b493af-b44f-4ed0-a924-985a5ef2ac62,4007123611874,PRICE_NOT_COMPETITIVE,Price too high
 dd365e55-7fff-45ef-a874-91254d115b45,3760138835192,PRICE_NOT_COMPETITIVE,Price too high
 66971029-38d3-438f-ba67-de4a0f655641,8719324977425,PRICE_NOT_COMPETITIVE,Price too high
@@ -225,8 +225,8 @@ d6205484-05a2-4883-a2af-fd551d3c62ff,0763332064767,PRICE_NOT_COMPETITIVE,Price t
 3d28fc1f-b85d-4d82-94e7-a1ae0605af6a,8719689486884,PRICE_NOT_COMPETITIVE,Price too high
 e2a49067-f139-4b4f-ace6-59e22b196c8f,5028420300307,PRICE_NOT_COMPETITIVE,Price too high
 733c46b8-f3d5-4947-b4d2-da340bee10e7,5420059811948,PRICE_NOT_COMPETITIVE,Price too high
-fb7b3000-40ef-4592-9c52-14c1ef9aa7d7,8712713885912,PRICE_NOT_COMPETITIVE,Price too high
 fb7b3000-40ef-4592-9c52-14c1ef9aa7d7,8712713885912,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+fb7b3000-40ef-4592-9c52-14c1ef9aa7d7,8712713885912,PRICE_NOT_COMPETITIVE,Price too high
 6c472985-e9df-4169-af02-e5ba517c0745,8714936034542,PRICE_NOT_COMPETITIVE,Price too high
 066f512a-7b67-43ea-b6e3-f73fa751b3d0,8719189416305,PRICE_NOT_COMPETITIVE,Price too high
 6ab57861-cd7d-4357-8466-e8c3da2c2779,8720254337722,PRICE_NOT_COMPETITIVE,Price too high
@@ -269,8 +269,8 @@ b8c8d930-1e6e-4469-9575-101416464b5d,5060674951355,PRICE_NOT_COMPETITIVE,Price t
 98d4b1e2-a24b-4718-9ea6-dc1402d1aff5,4066300100204,PRICE_NOT_COMPETITIVE,Price too high
 a02124b1-797c-4a6e-a117-2ccec1414a2d,4260399360949,PRICE_NOT_COMPETITIVE,Price too high
 96f44f53-2bae-4754-aeeb-e818cf21c56f,5410288435060,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
-b3d77f77-fe93-4fa1-b376-2a9f278f9440,4009463601072,PRICE_NOT_COMPETITIVE,Price too high
 b3d77f77-fe93-4fa1-b376-2a9f278f9440,4009463601072,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+b3d77f77-fe93-4fa1-b376-2a9f278f9440,4009463601072,PRICE_NOT_COMPETITIVE,Price too high
 055a39a7-f742-4e51-8da3-bfb05b02564b,8718781036751,PRICE_NOT_COMPETITIVE,Price too high
 132fbd0c-f5ae-457f-aadf-7fb4ab4cb2c3,3123840012334,PRICE_NOT_COMPETITIVE,Price too high
 0e046e4b-4b53-485c-9b2f-db73d7e64d35,4009033800348,PRICE_NOT_COMPETITIVE,Price too high
@@ -433,8 +433,8 @@ b0ee02a5-381c-4cb3-91df-7dba910bf475,8720254337005,PRICE_NOT_COMPETITIVE,Price t
 7e76883a-2c99-4d8d-8b45-512097717214,8717853121104,PRICE_NOT_COMPETITIVE,Price too high
 c2b22f1e-9061-4bc9-934c-5241d10df3ad,4007123675722,PRICE_NOT_COMPETITIVE,Price too high
 16e04b1e-f7ae-46c1-b09a-957d414baee4,8719189416220,PRICE_NOT_COMPETITIVE,Price too high
-52e51b92-1d31-4c0e-8ef2-f22c4e1e0526,8719324414043,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 52e51b92-1d31-4c0e-8ef2-f22c4e1e0526,8719324414043,NOT_PUBLISHED_BY_SELLER,The seller has not marked the offer for-sale.
+52e51b92-1d31-4c0e-8ef2-f22c4e1e0526,8719324414043,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 5c37b322-a675-4497-94aa-4765f75a9847,5425017315308,PRICE_NOT_COMPETITIVE,Price too high
 31666a94-37fa-433d-b1f2-ea6f0c9a18a9,3760138840851,PRICE_NOT_COMPETITIVE,Price too high
 f862e865-81f1-4260-940f-e11265a2f956,8717148129884,PRICE_NOT_COMPETITIVE,Price too high
@@ -454,8 +454,8 @@ de04c712-c3d9-411a-aa28-2dabe9bbc663,8716544041554,PRICE_NOT_COMPETITIVE,Price t
 35d3425f-0402-4fa3-a989-496a03e284d7,4000576488109,PRICE_NOT_COMPETITIVE,Price too high
 28681a24-fe3c-4e2a-a1e3-554384a3b9d1,8720299902947,PRICE_NOT_COMPETITIVE,Price too high
 a8109678-6072-4137-8c8a-e9670a8e5803,0018787242308,PRICE_NOT_COMPETITIVE,Price too high
-b5e74faf-40c0-4b25-a581-3f5c9e73f901,4260663810026,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 b5e74faf-40c0-4b25-a581-3f5c9e73f901,4260663810026,PRICE_NOT_COMPETITIVE,Price too high
+b5e74faf-40c0-4b25-a581-3f5c9e73f901,4260663810026,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 449c06b5-60dc-4411-8baf-caf4c9819bb3,3760138830050,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell in this country.
 64719a2a-d28b-4006-b9c0-fa5dbf916c58,8945005501430,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 7e9e4199-264f-4a70-b9ac-357a79a3ed56,8785253169033,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
@@ -483,8 +483,8 @@ dc792d6e-6c12-4d7e-b8ad-0475f347510a,0018787231005,PRICE_NOT_COMPETITIVE,Price t
 bc479583-d39b-4847-9a87-b095b9f0105b,3760138842206,PRICE_NOT_COMPETITIVE,Price too high
 67f4bc85-fb67-4db7-8982-21d6ed90fb6d,5765228837931,PRICE_NOT_COMPETITIVE,Price too high
 17753df1-8072-404d-83d2-abb80dd8a985,8716544019416,PRICE_NOT_COMPETITIVE,Price too high
-0e41f1ab-452f-4b42-839b-2d67cac205d0,7350075691997,PRICE_NOT_COMPETITIVE,Price too high
 0e41f1ab-452f-4b42-839b-2d67cac205d0,7350075691997,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+0e41f1ab-452f-4b42-839b-2d67cac205d0,7350075691997,PRICE_NOT_COMPETITIVE,Price too high
 2e049ab7-983c-4d85-a378-54a10b4628f6,8720254337449,PRICE_NOT_COMPETITIVE,Price too high
 6cceb787-939f-4587-a554-9072a0b48964,4042448149978,PRICE_NOT_COMPETITIVE,Price too high
 d2ec65a6-c620-410e-99c6-062ff5a4dbd9,7350075690259,PRICE_NOT_COMPETITIVE,Price too high
@@ -510,8 +510,8 @@ a679660d-e778-4bcf-ba69-6b215a8aa94a,4903585396215,PRICE_NOT_COMPETITIVE,Price t
 0af347fd-6250-4491-ae73-ccc77cb3e7a3,5412533404982,PRICE_NOT_COMPETITIVE,Price too high
 2cede6df-594a-4b9b-b673-f0037f5815b4,4260365855677,PRICE_NOT_COMPETITIVE,Price too high
 316f7541-103d-49f2-97f1-4ea158205495,4260365855684,PRICE_NOT_COMPETITIVE,Price too high
-8d020276-3e63-4a41-a8f4-3eeb312232bb,4037373401055,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 8d020276-3e63-4a41-a8f4-3eeb312232bb,4037373401055,PRICE_NOT_COMPETITIVE,Price too high
+8d020276-3e63-4a41-a8f4-3eeb312232bb,4037373401055,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 3d91fe0a-79ad-4b76-8167-d07ae82fca49,5710087420312,PRICE_NOT_COMPETITIVE,Price too high
 7a15c64b-ec5f-4260-9d7a-64abdeb632cc,8720648278051,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 1fe82d2e-c72e-4f62-be82-15d4c170853e,5420059851883,PRICE_NOT_COMPETITIVE,Price too high
@@ -573,16 +573,16 @@ a4c8c840-f137-4d77-a020-e054d2b88e58,0770009250736,PRICE_NOT_COMPETITIVE,Price t
 c143c5a7-c459-44e1-ae6a-9047837ba72a,0018787242957,PRICE_NOT_COMPETITIVE,Price too high
 93ff2964-e159-4fac-bb8a-cdefe6506f9f,4009800006195,PRICE_NOT_COMPETITIVE,Price too high
 7e597b73-bc7a-4830-8722-a782eff08047,8720254988153,PRICE_NOT_COMPETITIVE,Price too high
-5e22ab15-8fdc-46ec-9934-2f5509a1cb75,5060674951478,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 5e22ab15-8fdc-46ec-9934-2f5509a1cb75,5060674951478,PRICE_NOT_COMPETITIVE,Price too high
+5e22ab15-8fdc-46ec-9934-2f5509a1cb75,5060674951478,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 1ff94c91-4725-41f0-b0f2-e2e7cc3451dd,8717623001643,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 83e8e608-4495-4c25-a2a1-71989dae4094,0626232460414,PRICE_NOT_COMPETITIVE,Price too high
 434f8a18-e356-4e85-a071-0dddbfd5c1a3,7314150154500,PRICE_NOT_COMPETITIVE,Price too high
 f2c94e14-8c11-4893-a151-0cb4da53304e,8718692051188,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d60ae5bd-7757-4e0a-a349-d69c8560abfe,4250659322176,PRICE_NOT_COMPETITIVE,Price too high
 05fb7790-0b10-4264-9d9c-86eaa0500830,0018787243602,PRICE_NOT_COMPETITIVE,Price too high
-735e0ca4-e98d-48f8-81a2-f3c3c2a9e2e1,4260365853086,PRICE_NOT_COMPETITIVE,Price too high
 735e0ca4-e98d-48f8-81a2-f3c3c2a9e2e1,4260365853086,UNMATCHED_OFFER,You are the first to sell this item on bol.com. Please add a product category.
+735e0ca4-e98d-48f8-81a2-f3c3c2a9e2e1,4260365853086,PRICE_NOT_COMPETITIVE,Price too high
 1ed987b2-7507-4564-9e61-e3831aee6bf5,8720299624825,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 428df126-2d75-4919-99f3-0540abdd8b40,4903585386247,PRICE_NOT_COMPETITIVE,Price too high
 0f5666cf-6f67-4043-b43a-6a6044fce23b,4009033800034,PRICE_NOT_COMPETITIVE,Price too high
@@ -605,8 +605,8 @@ bbfe45df-6a4e-463e-905b-ea1b7166e4d3,0018787241004,PRICE_NOT_COMPETITIVE,Price t
 53df79df-ccb0-488c-a2e4-d17c1bf94c99,5060175850850,PRICE_NOT_COMPETITIVE,Price too high
 8e7546d3-e8d9-406c-bd44-c9036875588d,0626232408645,PRICE_NOT_COMPETITIVE,Price too high
 ae0af320-b015-4c5d-a392-b4d0b105643c,3760138831675,PRICE_NOT_COMPETITIVE,Price too high
-8f995c17-5b67-4dc7-8c96-96b7c5b6dabd,8717953186355,PRICE_NOT_COMPETITIVE,Price too high
 8f995c17-5b67-4dc7-8c96-96b7c5b6dabd,8717953186355,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+8f995c17-5b67-4dc7-8c96-96b7c5b6dabd,8717953186355,PRICE_NOT_COMPETITIVE,Price too high
 d8d107bd-fe40-421a-b374-c0601090be9e,8717853121135,PRICE_NOT_COMPETITIVE,Price too high
 2ff871fe-fae5-4a54-8174-ee7d476053fb,4009033800195,PRICE_NOT_COMPETITIVE,Price too high
 05ba8b7a-4417-41c1-b971-254b85517779,4897038627134,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
@@ -683,8 +683,8 @@ a1d3148c-6d4d-4c90-b359-7e99de4ca140,5060674951454,UNMATCHED_OFFER,For this prod
 7c456271-b240-4caf-b8e8-8dbfaca5660d,8720254337500,PRICE_NOT_COMPETITIVE,Price too high
 7c456271-b240-4caf-b8e8-8dbfaca5660d,8720254337500,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 42d9c5e0-5280-4bbe-b80e-9d31555fcb65,4012561100132,PRICE_NOT_COMPETITIVE,Price too high
-ad4d86bf-9d79-485d-a001-992d22b67545,9002759987367,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 ad4d86bf-9d79-485d-a001-992d22b67545,9002759987367,PRICE_NOT_COMPETITIVE,Price too high
+ad4d86bf-9d79-485d-a001-992d22b67545,9002759987367,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 2ecc5cc7-78fa-413e-b86f-ed5b0f5d8484,8719325675627,BRAND_NOT_ALLOWED,Brand of this item is currently not allowed within this category.
 0d541137-a31b-4668-aadf-54156c846697,8720387437276,PRICE_NOT_COMPETITIVE,Price too high
 0d541137-a31b-4668-aadf-54156c846697,8720387437276,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -740,8 +740,8 @@ ec391a24-dc7a-4d07-9204-65c923538d9c,8711332263774,UNMATCHED_OFFER,For this prod
 923ac327-99e1-4851-872a-16669d9d2364,9340655002037,PRICE_NOT_COMPETITIVE,Price too high
 cab9c561-2ba9-4f95-9d38-144f2411e892,4042448209528,PRICE_NOT_COMPETITIVE,Price too high
 141de639-2028-4187-aa91-59ebe16c9d1b,4009463601409,PRICE_NOT_COMPETITIVE,Price too high
-f2b364b2-f5f9-4046-8949-96213061fed4,8718657191829,PRICE_NOT_COMPETITIVE,Price too high
 f2b364b2-f5f9-4046-8949-96213061fed4,8718657191829,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+f2b364b2-f5f9-4046-8949-96213061fed4,8718657191829,PRICE_NOT_COMPETITIVE,Price too high
 849a16cf-53cd-4672-a908-f416b4a7dd10,8717371490379,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 fa4f042a-9628-4c4c-9375-5f5cd1674ca9,4893156032942,PRICE_NOT_COMPETITIVE,Price too high
 5d42db49-a918-4d99-864f-412810051ee4,5031670002396,PRICE_NOT_COMPETITIVE,Price too high
@@ -756,8 +756,8 @@ b88206f9-f97c-4740-8de1-ebef3b4e34c6,4007123611867,PRICE_NOT_COMPETITIVE,Price t
 80ac7a51-4264-4907-85b9-ab1ecfcdf886,3123840017469,PRICE_NOT_COMPETITIVE,Price too high
 449219bc-3a1e-4c60-90cf-a4ff9861db44,8436552302491,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 6439a5fc-9607-4712-9226-f6c0a52f5b79,6416739402772,PRICE_NOT_COMPETITIVE,Price too high
-f183a66f-9de8-411e-aa92-57255fcfd52e,5412810335046,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 f183a66f-9de8-411e-aa92-57255fcfd52e,5412810335046,PRICE_NOT_COMPETITIVE,Price too high
+f183a66f-9de8-411e-aa92-57255fcfd52e,5412810335046,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d7e80c59-cb3e-4a2c-a0a4-458e811a3135,8711731005784,PRICE_NOT_COMPETITIVE,Price too high
 3050871f-d934-4945-b9e4-b84deddce00c,8719189416466,PRICE_NOT_COMPETITIVE,Price too high
 2ad048cf-8281-4648-830a-4c0f96fcdea7,3123840019289,PRICE_NOT_COMPETITIVE,Price too high
@@ -867,7 +867,7 @@ ae49cd96-2edf-4da6-9770-6abb6cedb38c,4009463202538,PRICE_NOT_COMPETITIVE,Price t
 710f300b-5ad5-43bc-80f8-a2956345aa5a,8720648278068,PRICE_NOT_COMPETITIVE,Price too high
 8c415b62-5272-4606-abeb-c109fecf3aa1,8858922500076,PRICE_NOT_COMPETITIVE,Price too high
 2254e095-be60-4d3b-b00e-987206391949,0626232420326,PRICE_NOT_COMPETITIVE,Price too high
-3bd7c234-c37b-4816-9586-a96c970f6d27,8718781553180,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+3bd7c234-c37b-4816-9586-a96c970f6d27,8718781553180,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 8718781553180.
 711a44e7-11b4-4bf7-9b58-6b2ea9baaf39,4009463202613,PRICE_NOT_COMPETITIVE,Price too high
 ae7b133b-2fad-47d4-b2f9-7775519b0827,6011447628638,PRICE_NOT_COMPETITIVE,Price too high
 5ed14f40-6e67-47a9-9ab2-6d4faff14056,8711731031707,PRICE_NOT_COMPETITIVE,Price too high
@@ -935,8 +935,8 @@ bd5e4185-e915-4f7d-a128-f8a2e9534fc7,4260365857923,UNMATCHED_OFFER,For this prod
 36722756-d35f-45d6-8030-01c867602837,7350075692680,PRICE_NOT_COMPETITIVE,Price too high
 37925949-e182-4c5b-be8b-6d1014a6293e,8945005501423,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 8aad9c44-9d10-4235-8fc1-27d685781dab,4007123643547,PRICE_NOT_COMPETITIVE,Price too high
-117c5324-1269-4141-9e1d-369e0cc332eb,6430052009234,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 117c5324-1269-4141-9e1d-369e0cc332eb,6430052009234,PRICE_NOT_COMPETITIVE,Price too high
+117c5324-1269-4141-9e1d-369e0cc332eb,6430052009234,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 0e1671ee-1161-4293-9df8-600024cd8cbf,8719189416473,PRICE_NOT_COMPETITIVE,Price too high
 f4085962-77fd-4ae3-bddf-a3812788f21a,5410288513638,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 a945e654-582d-4f77-91a3-9bf94b5b9d60,3760138837561,PRICE_NOT_COMPETITIVE,Price too high
@@ -1032,8 +1032,8 @@ aa1db9a3-8ef0-40e0-9490-4789691aac3e,8711557404334,PRICE_NOT_COMPETITIVE,Price t
 b9699616-d7ce-495a-98e1-1f052ddc720b,5708055003711,PRICE_NOT_COMPETITIVE,Price too high
 10eef130-fc8b-47d8-a2a1-d51504c8f125,8718657190112,PRICE_NOT_COMPETITIVE,Price too high
 4dda53a8-f6fb-4489-927a-085c5a82b241,8719747803004,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-c722afa8-dc29-4431-8637-6675ddd835ff,4006381188791,PRICE_NOT_COMPETITIVE,Price too high
 c722afa8-dc29-4431-8637-6675ddd835ff,4006381188791,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+c722afa8-dc29-4431-8637-6675ddd835ff,4006381188791,PRICE_NOT_COMPETITIVE,Price too high
 a3efd14c-45f4-42ce-a183-979c0c220833,5400997199162,PRICE_NOT_COMPETITIVE,Price too high
 b1d0160e-2b83-47cb-855a-4f746e9907e9,8720387437122,PRICE_NOT_COMPETITIVE,Price too high
 13b4be44-3b4d-4056-8e62-77f5c417c1d9,4006381115513,PRICE_NOT_COMPETITIVE,Price too high
@@ -1041,8 +1041,8 @@ a86e82d9-26ed-4d95-90cb-613bbfba477a,8717623044343,PRICE_NOT_COMPETITIVE,Price t
 b2258911-1cf0-408a-824a-8d7852b42f0b,8712713886131,PRICE_NOT_COMPETITIVE,Price too high
 9af81f6d-b68d-4ae1-92c8-3fcbb27c5c7c,0018787830543,PRICE_NOT_COMPETITIVE,Price too high
 4ecb1819-d92c-4dd1-91a0-dda4d7e7c670,3760138836847,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
-396bfa62-0b85-415c-80a4-9595e683da30,4042448164964,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 396bfa62-0b85-415c-80a4-9595e683da30,4042448164964,PRICE_NOT_COMPETITIVE,Price too high
+396bfa62-0b85-415c-80a4-9595e683da30,4042448164964,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 20aa68b9-15a6-4aea-89a5-e290287b440f,8719325674545,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 7621116b-e7fa-4403-89c6-5b88a1eca2a2,4260066813433,PRICE_NOT_COMPETITIVE,Price too high
 8164ae1e-debc-471f-95c1-ae583d127536,8718692051195,PRICE_NOT_COMPETITIVE,Price too high
@@ -1057,8 +1057,8 @@ f7693677-a59e-41d2-bb9c-ebd6ae80cbf9,8719747801291,PRICE_NOT_COMPETITIVE,Price t
 aad085eb-e63f-4f5b-a04d-e6faf7d8389e,8590415007777,PRICE_NOT_COMPETITIVE,Price too high
 054a2d12-0e4d-4768-a9da-d3c11305d7f3,5034566350069,PRICE_NOT_COMPETITIVE,Price too high
 ad0efd04-17c9-4080-9f8b-0cc53f5c8ceb,4009463800802,PRICE_NOT_COMPETITIVE,Price too high
-7494cf3d-0c93-4f29-86f2-2cc2745e8280,4039468022978,PRICE_NOT_COMPETITIVE,Price too high
 7494cf3d-0c93-4f29-86f2-2cc2745e8280,4039468022978,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+7494cf3d-0c93-4f29-86f2-2cc2745e8280,4039468022978,PRICE_NOT_COMPETITIVE,Price too high
 159f21ad-66c0-433c-a752-af8809aad476,3760201132364,PRICE_NOT_COMPETITIVE,Price too high
 e492c8ee-e969-4849-aec6-32a6447e08b8,3700847802191,PRICE_NOT_COMPETITIVE,Price too high
 6c09329b-eca2-47ce-84d7-687d8aa1b71a,8945005501256,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
@@ -1098,14 +1098,14 @@ a4f25802-ea12-4ea1-947a-205315077638,3760201131442,PRICE_NOT_COMPETITIVE,Price t
 3cda8887-4b95-40f3-80c7-942da79862ec,0691621830536,PRICE_NOT_COMPETITIVE,Price too high
 6c5c5ec0-dc7a-49c3-8d2d-b9fd1fe46fc4,3760138839381,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 e039d496-775f-443b-a3ee-c6dc84d864a0,5031670002648,PRICE_NOT_COMPETITIVE,Price too high
-6be88c7b-d58d-44ed-8703-f13198efa2e0,8718657190297,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 6be88c7b-d58d-44ed-8703-f13198efa2e0,8718657190297,PRICE_NOT_COMPETITIVE,Price too high
+6be88c7b-d58d-44ed-8703-f13198efa2e0,8718657190297,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 01034dd7-3713-4f7d-b03a-4ca8117a9abf,4009033800256,PRICE_NOT_COMPETITIVE,Price too high
 67d30a89-9d75-48c9-b93c-c9a7cbadd9d6,5013931014232,PRICE_NOT_COMPETITIVE,Price too high
 4f1dd7ed-0e95-42f8-92b8-b92c4762bfcb,0018787243305,PRICE_NOT_COMPETITIVE,Price too high
 c33292a2-eacc-4c0a-9a97-a99fc18f3889,4260365858630,PRICE_NOT_COMPETITIVE,Price too high
-97e6e31d-1596-48e7-b98c-ae7a240e61fc,4007123249404,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 97e6e31d-1596-48e7-b98c-ae7a240e61fc,4007123249404,PRICE_NOT_COMPETITIVE,Price too high
+97e6e31d-1596-48e7-b98c-ae7a240e61fc,4007123249404,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 5be4a3bc-e8b1-4860-bde2-8234284e6f00,8719189416015,PRICE_NOT_COMPETITIVE,Price too high
 c3ce9e68-3180-4643-8114-6dd0be7edd79,4004519045022,PRICE_NOT_COMPETITIVE,Price too high
 be455523-10b3-4565-a978-6c6fc4fb4998,0018787830512,PRICE_NOT_COMPETITIVE,Price too high
@@ -1221,8 +1221,8 @@ c07c1fa7-85b7-4e9a-b17b-05dac4471a66,3760138842787,PRICE_NOT_COMPETITIVE,Price t
 89c78344-e9dd-415f-af5b-ed32ba4cc54f,5419980270283,PRICE_NOT_COMPETITIVE,Price too high
 359e1515-ce78-4a4c-9270-06361696d812,0018787251911,PRICE_NOT_COMPETITIVE,Price too high
 359e1515-ce78-4a4c-9270-06361696d812,0018787251911,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-14fe645c-3011-4e4c-b536-c14a169d82e1,9007730002367,PRICE_NOT_COMPETITIVE,Price too high
 14fe645c-3011-4e4c-b536-c14a169d82e1,9007730002367,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+14fe645c-3011-4e4c-b536-c14a169d82e1,9007730002367,PRICE_NOT_COMPETITIVE,Price too high
 82620920-f5b1-409f-b798-733db70cabd8,8711731006934,PRICE_NOT_COMPETITIVE,Price too high
 fcf3970f-c7fe-402b-a76f-07f5469dc896,8720387032099,PRICE_NOT_COMPETITIVE,Price too high
 a4a442be-1e41-4d3d-a687-e6181bb73f8d,5765228837825,PRICE_NOT_COMPETITIVE,Price too high
@@ -1333,8 +1333,8 @@ f8464eab-1f0d-4d71-a617-3335fc871012,8719325674828,OUT_OF_STOCK,Out of stock or 
 24479929-218f-4cd5-ae6b-f992a3b014a0,5031670002686,PRICE_NOT_COMPETITIVE,Price too high
 be16e27d-a0f4-477c-b79e-3dca3071fceb,8594202480033,PRICE_NOT_COMPETITIVE,Price too high
 5875e267-a1c7-4522-8cca-39e424a7176b,8710735000344,PRICE_NOT_COMPETITIVE,Price too high
-225ea895-34c9-4baf-9570-ba18a8c48a7f,8718469271733,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 225ea895-34c9-4baf-9570-ba18a8c48a7f,8718469271733,PRICE_NOT_COMPETITIVE,Price too high
+225ea895-34c9-4baf-9570-ba18a8c48a7f,8718469271733,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 51fb7449-63ff-4d9e-9399-f40a5c47290b,0850024570412,PRICE_NOT_COMPETITIVE,Price too high
 86dfdeb5-0d5a-4cc9-b78d-62db305784b1,3123840018985,PRICE_NOT_COMPETITIVE,Price too high
 ff922f04-927b-4eef-b0ba-f8951922b07c,8719189416374,PRICE_NOT_COMPETITIVE,Price too high
@@ -1415,10 +1415,10 @@ aa1644d4-116e-4999-b237-e5c5dc43a4c8,3760138840806,PRICE_NOT_COMPETITIVE,Price t
 95f5ff98-930b-4c93-9f79-231e80fd0921,4028403110306,PRICE_NOT_COMPETITIVE,Price too high
 0a8ca0ba-6ada-4a23-963d-5f234bdc104d,4042448920959,PRICE_NOT_COMPETITIVE,Price too high
 67815194-ee5b-4792-b514-fb4cf46096e7,8712448434904,PRICE_NOT_COMPETITIVE,Price too high
-e5881793-2192-4e82-9beb-a1790c155efd,5708055018791,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 e5881793-2192-4e82-9beb-a1790c155efd,5708055018791,PRICE_NOT_COMPETITIVE,Price too high
-eaba4710-d3d4-452e-aea3-0ffc41573979,7350075693045,PRICE_NOT_COMPETITIVE,Price too high
+e5881793-2192-4e82-9beb-a1790c155efd,5708055018791,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 eaba4710-d3d4-452e-aea3-0ffc41573979,7350075693045,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+eaba4710-d3d4-452e-aea3-0ffc41573979,7350075693045,PRICE_NOT_COMPETITIVE,Price too high
 ab910ad3-c415-4170-bbf3-d42984bcce5e,8717371494223,PRICE_NOT_COMPETITIVE,Price too high
 9c03d705-1df8-49da-b872-0cf15db27290,8716544041479,PRICE_NOT_COMPETITIVE,Price too high
 de8224c5-c0a1-4647-aab2-5cacf2ec2f4b,8718421471409,PRICE_NOT_COMPETITIVE,Price too high
@@ -1681,14 +1681,14 @@ d19139be-d6fa-4fad-b421-7a61cbe49614,4007123249831,PRICE_NOT_COMPETITIVE,Price t
 af58abaa-d045-4c71-984a-7eeb2ddbd524,4011097738697,PRICE_NOT_COMPETITIVE,Price too high
 f4880a6f-bfb7-4173-a04c-c2a768df12aa,4260328611845,PRICE_NOT_COMPETITIVE,Price too high
 a5baaf38-141b-4e74-b41f-66cdc1c6032c,4014362189804,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-3416a62a-b685-4da2-9e53-3ba1f0de6754,4892657072631,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
-959cddc1-a9cc-4492-a921-60d8b58e8676,4892657110661,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
-8a1d15b5-bef0-472c-a1a4-82f292d6698e,4892657100280,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 4892657100280.
+3416a62a-b685-4da2-9e53-3ba1f0de6754,4892657072631,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 4892657072631.
+959cddc1-a9cc-4492-a921-60d8b58e8676,4892657110661,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 4892657110661.
+8a1d15b5-bef0-472c-a1a4-82f292d6698e,4892657100280,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 67887b64-eddf-4f99-a771-0c9f2a6d28f5,4892657111804,PRICE_NOT_COMPETITIVE,Price too high
 af4f97b1-6b94-4fc9-8901-2b336c9313fe,4892657100341,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 4892657100341.
 84e34713-bbf8-4927-b5fd-27f1c6a13f2a,4892657111972,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 c6d24089-27f3-4a9f-a276-8d5fb989cefc,4892657052428,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 4892657052428.
-b3e47276-c5fe-423c-8097-ae0a27f42aa7,4892657098693,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+b3e47276-c5fe-423c-8097-ae0a27f42aa7,4892657098693,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 4892657098693.
 4212446b-4525-443b-b310-0261015c240e,5011632669904,PRICE_NOT_COMPETITIVE,Price too high
 8b9ae827-a9a4-463a-9749-e4c995717c33,4892657096804,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 f75407c3-f728-4e84-9377-4af38258ca70,4892657114621,PRICE_NOT_COMPETITIVE,Price too high
@@ -1698,7 +1698,7 @@ f75407c3-f728-4e84-9377-4af38258ca70,4892657114621,PRICE_NOT_COMPETITIVE,Price t
 252e8292-b2d1-4952-a202-b78a2e7efb80,4260328611456,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 da495d50-0ef5-4ef8-bacd-6cc9a107d845,4892657100334,PRICE_NOT_COMPETITIVE,Price too high
 8e849af5-e792-4452-bc82-89726e73021b,4892657109665,PRICE_NOT_COMPETITIVE,Price too high
-d66080ef-fe73-4ef9-919f-4e46ce2467e3,4892657089295,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+d66080ef-fe73-4ef9-919f-4e46ce2467e3,4892657089295,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 4892657089295.
 09ad830c-5a4a-4113-b82d-235c3961eb83,5410288058863,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 40b7848b-fb05-418a-a532-1671a5b90715,5410288058450,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 40b7848b-fb05-418a-a532-1671a5b90715,5410288058450,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
@@ -1715,8 +1715,8 @@ e6e218d1-132b-477e-bce5-38ffdcd814fd,5410288285610,UNMATCHED_OFFER,For this prod
 e6e218d1-132b-477e-bce5-38ffdcd814fd,5410288285610,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 7ff1a7b2-ebc2-4765-bddf-97bd6f7c9551,5410288286013,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 c59012a5-ebfd-4372-b65b-d03c4b1fa33d,5412810291540,PRICE_NOT_COMPETITIVE,Price too high
-be95bda1-3fd3-4cc1-83b3-ca5f6fc1477d,5410288285931,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 be95bda1-3fd3-4cc1-83b3-ca5f6fc1477d,5410288285931,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+be95bda1-3fd3-4cc1-83b3-ca5f6fc1477d,5410288285931,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 5fb0e908-79e7-40f6-807a-ffd59e66bd6e,5410288283098,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 5fb0e908-79e7-40f6-807a-ffd59e66bd6e,5410288283098,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 0ecc2dd7-c101-4782-99fc-fb8f8e447a84,5410288295763,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -1727,16 +1727,16 @@ be95bda1-3fd3-4cc1-83b3-ca5f6fc1477d,5410288285931,UNMATCHED_OFFER,For this prod
 9a2edc84-456e-4146-934f-d8abd2210aab,5410288294926,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 65e3c159-150d-4822-93f2-1cb58d7e5224,5410288283418,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 65e3c159-150d-4822-93f2-1cb58d7e5224,5410288283418,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
-56c3ef78-3671-4955-ad7b-140035ecae99,5410288284767,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 56c3ef78-3671-4955-ad7b-140035ecae99,5410288284767,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+56c3ef78-3671-4955-ad7b-140035ecae99,5410288284767,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 4ba2c383-489b-469f-9d6d-e501db73de33,5410288285559,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 4ba2c383-489b-469f-9d6d-e501db73de33,5410288285559,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 32e09704-f04c-4c49-8bf5-cb955620420b,5410288058429,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 32e09704-f04c-4c49-8bf5-cb955620420b,5410288058429,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 981e6029-f2d1-4478-9c49-8fe389524a93,5410288296647,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 981e6029-f2d1-4478-9c49-8fe389524a93,5410288296647,PRICE_NOT_COMPETITIVE,Price too high
-89d90832-7b23-4cf8-b09c-75369dd861a4,5410288291253,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 89d90832-7b23-4cf8-b09c-75369dd861a4,5410288291253,PRICE_NOT_COMPETITIVE,Price too high
+89d90832-7b23-4cf8-b09c-75369dd861a4,5410288291253,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 ad9360aa-2de6-440c-81d2-c166f84b913f,5410288294995,PRICE_NOT_COMPETITIVE,Price too high
 14855100-5c0c-4e64-83b2-7060e587f906,5412810334384,PRICE_NOT_COMPETITIVE,Price too high
 3e16a20c-5a6b-4290-a8b5-ddd590efc8e9,5410288294919,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -1756,7 +1756,7 @@ dddfd57a-7efb-4c19-87e1-4cad398e1619,5410288284460,INSUFFICIENT_PERMISSIONS,Sell
 6b992795-801a-498d-8cd4-e9569d914fdc,8712412579600,PRICE_NOT_COMPETITIVE,Price too high
 cdd8cfc3-359d-4d65-ae79-e5b69b2fff54,8717953291462,PRICE_NOT_COMPETITIVE,Price too high
 432cd97a-15dd-4314-9369-e9aa1952947c,8718836970146,PRICE_NOT_COMPETITIVE,Price too high
-da544a17-3004-41b1-899b-d0a14a445759,8718696578100,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+da544a17-3004-41b1-899b-d0a14a445759,8718696578100,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 8718696578100.
 7ac1d53e-3a4e-4523-81f2-590bb9df90e4,8718836970184,PRICE_NOT_COMPETITIVE,Price too high
 6ac06083-c882-4c8b-87e4-54825b35c398,5410288296746,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 2ee5d795-e50f-4129-b0e5-329a82bf9bfd,8718836970276,PRICE_NOT_COMPETITIVE,Price too high
@@ -1792,7 +1792,7 @@ cb50902f-a71b-4b80-bc23-9f28a46f38f8,8717931410182,PRICE_NOT_COMPETITIVE,Price t
 c920211d-464a-44ab-8e73-d055add33d3c,8720254337043,PRICE_NOT_COMPETITIVE,Price too high
 301a2293-2bb7-4abb-913d-600fd099ad69,9008606228553,PRICE_NOT_COMPETITIVE,Price too high
 fbea7fc9-3b35-463f-bbf4-e41bf64b3515,8719514346819,PRICE_NOT_COMPETITIVE,Price too high
-91050ccb-d75e-4623-b9bf-8c8e74878879,9008606228034,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 9008606228034.
+91050ccb-d75e-4623-b9bf-8c8e74878879,9008606228034,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 74b27953-3292-454c-9cdb-0c70aaeab559,9002759128630,PRICE_NOT_COMPETITIVE,Price too high
 3a900a57-34a8-48b0-b69c-a959d96d968d,9002759118648,PRICE_NOT_COMPETITIVE,Price too high
 3bcc6ca4-80e7-4a99-b9c8-b37591fabd9b,9008606228003,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 9008606228003.
@@ -1836,8 +1836,8 @@ fd4d9cf0-8cb9-459b-b6f6-dc231c7fc155,8720294020790,PRICE_NOT_COMPETITIVE,Price t
 21a0d9bc-2e6f-4081-8f74-cf0c8a27a22a,8720294020455,PRICE_NOT_COMPETITIVE,Price too high
 3a31e2e0-d980-4aba-8aaa-3c06dadfe820,8720294020431,PRICE_NOT_COMPETITIVE,Price too high
 3de2b3d8-189d-4b0f-a401-8c06b6def609,8720294015031,PRICE_NOT_COMPETITIVE,Price too high
-fba19174-e0fa-4a62-b666-aa97ee8b83cb,8720294015062,PRICE_NOT_COMPETITIVE,Price too high
 fba19174-e0fa-4a62-b666-aa97ee8b83cb,8720294015062,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+fba19174-e0fa-4a62-b666-aa97ee8b83cb,8720294015062,PRICE_NOT_COMPETITIVE,Price too high
 62cc3511-8fdd-4e2d-976e-9de7b8f2f717,8720294022824,PRICE_NOT_COMPETITIVE,Price too high
 415b85f4-fbf4-4e81-8443-29299f5a766f,8720294020776,PRICE_NOT_COMPETITIVE,Price too high
 6f4846bd-ec67-449f-beeb-37c6b98b45d7,8720294020448,PRICE_NOT_COMPETITIVE,Price too high
@@ -1850,8 +1850,8 @@ d193da11-fb4a-4f29-958c-babbe9e912e6,0018787321102,PRICE_NOT_COMPETITIVE,Price t
 1c113ae1-d92e-4579-b732-f024fc489c95,5410288291260,PRICE_NOT_COMPETITIVE,Price too high
 6cf225e6-e3a6-47b2-ae04-fcfdb932e024,5410288293714,PRICE_NOT_COMPETITIVE,Price too high
 aa41bea5-cd8d-46f0-8b13-2f8705c7b6f8,8715063411572,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-e873c9f2-1de4-4597-8723-73d595544529,4260336830092,PRICE_NOT_COMPETITIVE,Price too high
 e873c9f2-1de4-4597-8723-73d595544529,4260336830092,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
+e873c9f2-1de4-4597-8723-73d595544529,4260336830092,PRICE_NOT_COMPETITIVE,Price too high
 d5f02a34-c935-4d1d-85f1-722bb2b1b027,4260336830184,PRICE_NOT_COMPETITIVE,Price too high
 6af3a1fd-8adb-49b8-b238-8e5891aacd84,4260336830382,PRICE_NOT_COMPETITIVE,Price too high
 dbdee8e7-7cd6-443f-965f-99e23de80a25,4260424180023,PRICE_NOT_COMPETITIVE,Price too high
@@ -2133,7 +2133,7 @@ aba3c5a0-e599-40c8-afdc-373db5b90929,4260057864758,UNMATCHED_OFFER,For this prod
 ed3a83ac-4820-437d-ae3d-b4d0e1b59e9d,4260057863775,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 c0b43138-82a9-4451-a9a3-86f6979786ba,4260057864369,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 157329fa-dfd9-41cd-b9c5-e05d5f4be830,4260328610220,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
-c72399fb-acba-4904-bf70-f4b5e89e00ab,4260057867773,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+c72399fb-acba-4904-bf70-f4b5e89e00ab,4260057867773,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 4260057867773.
 19a64a58-891d-48c8-b4c2-781e69aea5cf,4260365850627,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 21ed101c-c984-4eef-b195-674d662de041,4260365850603,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 2da244c4-f7b0-49da-a57c-f60a55cdafb0,4260147637019,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -2189,8 +2189,8 @@ f7d6979c-3e92-467a-a034-1ba53ea2fd48,4892657089325,OUT_OF_STOCK,Out of stock or 
 e80796b4-6520-492e-92f5-6f1d8b5bf414,4892657100273,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 02a82f01-73b4-42ea-a883-75854f7074b2,4751030522739,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 750f2d73-392c-4540-8ffb-974199b2ff8b,4892657099263,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-02151dee-5e59-429c-8eff-ae256c5ee77a,4892657100242,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 02151dee-5e59-429c-8eff-ae256c5ee77a,4892657100242,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+02151dee-5e59-429c-8eff-ae256c5ee77a,4892657100242,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 87e98271-f8ed-4c4c-b0c2-13126d8f7139,4792247003130,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 28aa4bb9-0bae-4587-93fc-dcc721d33c41,4892657103489,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 d5e965de-bf1f-494b-889f-05eea70100ba,4892657110999,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
@@ -2207,14 +2207,14 @@ f0ab5635-8b8e-4094-9f70-63641e5a6530,4892657098969,UNMATCHED_OFFER,For this prod
 31a2bcbe-2d78-4aee-8ecc-46d56fb9ad11,4892657110968,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 a7e8e29b-635c-4eda-834b-a5c70189b902,4892657081121,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 8e0468ef-50b0-4916-b3fb-f0101d3797cd,4892657101577,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-55855f5d-a4b1-4445-9827-27a7e5adb229,4892657098785,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+55855f5d-a4b1-4445-9827-27a7e5adb229,4892657098785,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 4892657098785.
 04becdb6-3ceb-4960-9c02-3101e8b68bad,4792247004281,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-dd02b3ae-ec5b-4063-b1ad-2b0d67d8857f,4892657100303,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
-2c17b22c-c845-43c4-9ed6-89e1b78ba997,4892657110982,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 4892657110982.
-d0120f6e-901e-448a-be4a-7a1e22638d99,4892657100617,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 4892657100617.
+dd02b3ae-ec5b-4063-b1ad-2b0d67d8857f,4892657100303,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 4892657100303.
+2c17b22c-c845-43c4-9ed6-89e1b78ba997,4892657110982,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+d0120f6e-901e-448a-be4a-7a1e22638d99,4892657100617,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 e1f938d9-3069-40fd-a70f-f9adeb7f2664,4892657101645,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 67142fcd-b403-4fcb-ba83-f6936d7e78f6,4792247006346,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-b960ee9c-c983-4fff-ad5f-4e758243317f,4892657100211,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 4892657100211.
+b960ee9c-c983-4fff-ad5f-4e758243317f,4892657100211,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 e99941f3-984a-447d-87c3-626436898b00,4893156032652,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 58768024-0e3e-4db6-b7d2-9d4d7666e2b8,4892657098907,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 89bf8b68-fe6c-4b22-9858-38e116910c5a,4892657110944,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
@@ -2296,42 +2296,42 @@ f3691fb4-e0ee-4cd3-8360-7ce18edac6f2,5060240381869,OUT_OF_STOCK,Out of stock or 
 a2dc8096-ebc5-48dd-ae08-2d11864b07e3,5410288266763,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 a2dc8096-ebc5-48dd-ae08-2d11864b07e3,5410288266763,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 59fd22f8-3114-45aa-a185-796084de65f0,5065001545375,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-1df587ec-87fd-4440-906e-51f0822e1d20,5410288280028,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 1df587ec-87fd-4440-906e-51f0822e1d20,5410288280028,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+1df587ec-87fd-4440-906e-51f0822e1d20,5410288280028,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 6d090309-2b70-4bd7-b893-8f225fb14720,5410288269498,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 6d090309-2b70-4bd7-b893-8f225fb14720,5410288269498,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 ee85db12-b2e0-45f8-ba0e-7120d279087e,5401012000128,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-0fd79529-1d27-49ae-bcfb-9796121ceaf4,5410288279763,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 0fd79529-1d27-49ae-bcfb-9796121ceaf4,5410288279763,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
-ec7c55d5-387f-46b6-9e27-28d4ddb6eaf3,5410288274898,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+0fd79529-1d27-49ae-bcfb-9796121ceaf4,5410288279763,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 ec7c55d5-387f-46b6-9e27-28d4ddb6eaf3,5410288274898,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+ec7c55d5-387f-46b6-9e27-28d4ddb6eaf3,5410288274898,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 f7e33572-500a-4af7-b9cf-611d20a9545b,5401012000111,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 532c8ec8-b325-4275-8dd8-9eddf5bb2bb4,5410288295497,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 532c8ec8-b325-4275-8dd8-9eddf5bb2bb4,5410288295497,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 d070e76e-cd8e-4ca3-acba-6aae8b1f0367,5410288273419,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 3b069272-2c12-491a-83e6-040ea5f7cc0d,5410288282022,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 9460afec-eec6-48a3-9a14-601ee4be4817,5410288285498,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
-33d5a9e9-fad6-4e12-999f-7894ae649830,5410288285948,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 33d5a9e9-fad6-4e12-999f-7894ae649830,5410288285948,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+33d5a9e9-fad6-4e12-999f-7894ae649830,5410288285948,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 9102a00c-41c9-409d-bc85-a9e1f2bf53ee,5401012000104,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-0531b4c1-3357-4f5b-9cbe-3bd231ac3970,5410288272382,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 0531b4c1-3357-4f5b-9cbe-3bd231ac3970,5410288272382,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+0531b4c1-3357-4f5b-9cbe-3bd231ac3970,5410288272382,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 4d7e1090-e38f-4708-a370-fb7b523d9075,5410288269542,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 4d7e1090-e38f-4708-a370-fb7b523d9075,5410288269542,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 ca1f1390-c140-44fc-9173-fdac550904c1,5065001545184,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 9ce6ff48-6155-48c9-a575-bb92860ba5ed,5410288295022,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-d4f9bd32-24b1-409e-b7c4-a1d9ed3f941d,5410288282145,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 d4f9bd32-24b1-409e-b7c4-a1d9ed3f941d,5410288282145,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+d4f9bd32-24b1-409e-b7c4-a1d9ed3f941d,5410288282145,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 138dd033-4eb4-407b-ae5d-f685b9f5da86,5410288283081,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 138dd033-4eb4-407b-ae5d-f685b9f5da86,5410288283081,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 f08df6ad-c45e-490c-80f9-00a2438bdf00,5410288282169,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 ebf9ae95-85ce-49f6-b3ac-a6379dc66933,5410288266725,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 9840dabb-3a38-4b9d-86ba-de4c173d1ebb,5410288272405,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 75b8d2f6-fa38-4abd-a1dd-e58426e66bee,5410288284514,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
-e0f69e4b-7743-4131-afd2-2d6204df9aea,5410288058443,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 e0f69e4b-7743-4131-afd2-2d6204df9aea,5410288058443,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+e0f69e4b-7743-4131-afd2-2d6204df9aea,5410288058443,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 202fa4c4-2220-47db-b84b-3b0796365416,5410288293165,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-3db3f539-6fbe-49cf-8546-3d8a844b160b,5410288284620,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 5410288284620.
+3db3f539-6fbe-49cf-8546-3d8a844b160b,5410288284620,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 6cec7635-cc66-463b-bc8b-051dcecc73da,5410288293356,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 dafd6bbb-521c-47c4-9576-c9ca5a4260f6,5410288274904,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 dafd6bbb-521c-47c4-9576-c9ca5a4260f6,5410288274904,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
@@ -2774,11 +2774,11 @@ a07be445-94e4-466d-9237-6e781e20c560,8718421471126,OUT_OF_STOCK,Out of stock or 
 2b6b5302-2474-4952-9c7e-ee3742d826cb,8718311310498,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 a09b495e-1785-4513-941b-3c1f2abc2951,8718696706459,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 f9d5153b-b989-4a2e-bf60-503a748004b6,8718699773434,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
-7e961a32-2aec-4876-9573-e022bcc893ed,8718699773250,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 7e961a32-2aec-4876-9573-e022bcc893ed,8718699773250,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+7e961a32-2aec-4876-9573-e022bcc893ed,8718699773250,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 2fac6b71-3c33-4cf0-bb9b-e97647a5b7ba,8718692059658,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 715ed08d-e347-4fbc-8081-f169e6a2ef24,8718734615699,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-1c79e5bf-fbd2-4972-a660-943df1455ebe,8718699773373,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 8718699773373.
+1c79e5bf-fbd2-4972-a660-943df1455ebe,8718699773373,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 20b72eca-a663-4e02-aa27-e8daf77c8b2c,8719189416213,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 819e9ef5-53b9-4473-8d1f-5bd7e27121f0,8719324414371,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 5b18cda0-c4ea-42ea-94fe-d6392a81ad4e,8719189416084,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -2844,8 +2844,8 @@ ebf24295-7a72-4ab5-b978-c8abf965a41e,8719992041015,UNMATCHED_OFFER,For this prod
 624a64fc-48bf-4793-b05d-d32f4460fff3,8719747801116,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 a3999e83-7c6d-4f8e-b0b1-d2f1a6ed2aff,8719992041176,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 c4baa4c8-2a71-4d7a-904c-9bba6fd747ac,8719992222216,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-6a1470be-d4dc-4080-870f-f2e1796071d9,8719992041237,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 6a1470be-d4dc-4080-870f-f2e1796071d9,8719992041237,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+6a1470be-d4dc-4080-870f-f2e1796071d9,8719992041237,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 dfd133eb-f898-4c0d-a34f-54347ecc8a01,8720165068067,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 54473052-d042-472b-934c-61c7535e31fc,8719992178353,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 afe9ddf1-83c0-4fcc-b906-1e4129b7ff09,8720165068036,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -2863,8 +2863,8 @@ bc11cae5-a08e-4455-9283-9c89fbec0314,8719992041169,UNMATCHED_OFFER,For this prod
 1b5c2af5-5057-4d2d-aede-3d6558d4b038,8719992041145,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 6dc041df-759e-4384-ad61-fd235ea2b64e,8720165068029,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 f55d97eb-09c8-4e44-8e76-c8901c0c1131,8720165994113,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-2dc09211-5f2c-4997-810c-8fe4a5ffdafb,8719992041022,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 2dc09211-5f2c-4997-810c-8fe4a5ffdafb,8719992041022,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+2dc09211-5f2c-4997-810c-8fe4a5ffdafb,8719992041022,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 9c77fad7-c9c9-4be1-8093-9ea5d7ff3f8c,8720165068050,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 1285b664-01c2-4158-8aa0-855ec37058f1,8720143191169,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 b8aad6f6-6d4b-4f1b-adb5-c6dddf951c66,8720165068012,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
@@ -2895,22 +2895,22 @@ f2bbfef1-f94d-40d4-bfb0-0044a13854b0,9002759128647,OUT_OF_STOCK,Out of stock or 
 688e8915-b87e-42a4-a915-6a661f7c9b5d,9002759117146,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 e0063d35-278d-4410-bb97-bb2e7087bda8,9002759117467,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 e0063d35-278d-4410-bb97-bb2e7087bda8,9002759117467,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
-f9495dd1-e16e-4ccf-8156-325f0f178791,9002759118792,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 f9495dd1-e16e-4ccf-8156-325f0f178791,9002759118792,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+f9495dd1-e16e-4ccf-8156-325f0f178791,9002759118792,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 30b7201a-6db1-42c1-8cb9-cfe918bd919d,8720618203069,PRICE_NOT_COMPETITIVE,Price too high
 5577af65-101e-4be1-b223-b45c1c791507,8858922510938,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
-2fc581de-61df-47eb-85a2-67f9c106bc74,9002759116965,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 2fc581de-61df-47eb-85a2-67f9c106bc74,9002759116965,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
+2fc581de-61df-47eb-85a2-67f9c106bc74,9002759116965,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 edf9944b-78ca-4c00-bcc6-cdbbaa447604,9002759118747,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 901ac2f5-37ed-42ef-a287-070f3201d4a1,9002759116040,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 e35e64f5-857e-4365-abb7-9fcef47d95a4,9002759126926,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 1d2fef22-afbc-4dda-acd8-c31a71f672a5,9002759118860,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
-6b931e7e-73d2-40e1-97ed-ef415f5027c0,9002759116996,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product 9002759116996.
+6b931e7e-73d2-40e1-97ed-ef415f5027c0,9002759116996,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 ec4a0a21-07e4-4411-aaff-377d5993d6f3,9002759117429,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 ec4a0a21-07e4-4411-aaff-377d5993d6f3,9002759117429,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
 f49596e7-79d6-4f2e-abb0-8eb45e24368c,9002759118785,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
-cbf30e20-8551-458b-8693-ff44846ded9c,9002759117443,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 cbf30e20-8551-458b-8693-ff44846ded9c,9002759117443,INSUFFICIENT_PERMISSIONS,Seller not permitted to sell product.
+cbf30e20-8551-458b-8693-ff44846ded9c,9002759117443,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
 1189726b-4213-4187-8c1a-01f70777d217,9340655008275,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 80d53dce-ac4d-4d6f-9cb8-f608452c74c7,9007730000318,OUT_OF_STOCK,Out of stock or remaining stock is reserved for pending orders.
 f3cb6c1b-c023-45ac-8d08-fc051121f370,9008606227938,UNMATCHED_OFFER,For this product essential product information is missing. Go to 'Mijn aanbod' to enrich this product.
